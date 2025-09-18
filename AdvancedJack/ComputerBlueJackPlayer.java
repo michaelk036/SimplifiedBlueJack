@@ -1,4 +1,4 @@
-package NoahJack;
+package AdvancedJack;
 
 public class ComputerBlueJackPlayer extends Player {
 

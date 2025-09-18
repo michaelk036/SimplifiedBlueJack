@@ -1,4 +1,4 @@
-package NoahJack;
+package AdvancedJack;
 
 import java.util.Collections;
 import java.util.LinkedList;

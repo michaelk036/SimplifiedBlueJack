@@ -1,4 +1,4 @@
-package SharonJack;
+package SimpleJack;
 
 public class Card {
   private String suit;

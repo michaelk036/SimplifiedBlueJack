@@ -1,4 +1,4 @@
-package SharonJack;
+package SimpleJack;
 
 public class Main {
   public static void main(String[] args) {

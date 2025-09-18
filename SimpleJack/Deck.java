@@ -1,4 +1,4 @@
-package SharonJack;
+package SimpleJack;
 
 import java.util.Collections;
 import java.util.ArrayList;
