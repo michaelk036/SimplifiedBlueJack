@@ -2,7 +2,7 @@ package SimpleJack;
 
 import java.util.List;
 
-public abstract class Player {
+public class Player {
   
   private Hand hand;
   private String name;
